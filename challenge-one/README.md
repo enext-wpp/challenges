@@ -4,7 +4,7 @@ Com este pequeno desafio vamos avaliar o seu conhecimento técnico para entender
 ## A missão:
 Sua missão é criar a página abaixo:
 
-![Merlins Potions Layout](assets/potions-layout.png)
+![Merlins Potions Layout](src/assets/images/potions-layout.png)
 
 ### O que esperamos:
 * Utilização de `Javascript` puro ou alguma biblioteca como `JQuery` e etc.
