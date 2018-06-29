@@ -1,4 +1,4 @@
-# Desafio Fron-end
+# Desafio Front-end
 Com este pequeno desafio vamos avaliar o seu conhecimento técnico para entender melhor como você trabalha com o seu código, então mostre o seu melhor.
 
 ## A missão:
