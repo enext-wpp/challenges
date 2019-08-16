@@ -25,9 +25,6 @@ Sua missão é criar a página abaixo:
 ### O que não esperamos:
 * Frameworks para CSS como `Bootstrap`, `Foundation` e etc...
 
-### Após finalizado:
-Depois de finalizado envie seu teste para `alfredo.junior@enext.com.br` ou `eduardo.keneeth@enext.com.br`. Caso tenha encontrado este teste na internet fique a vontade para aplicar e nos enviar, ficaremos felizes em avaliar o seu teste e dar um feedback.
-
 ### Observações
 * Lembrando que não é obrigatório aplicar todos os items descritos acima, não deixe de enviar o resultado do seu teste.
 * Todos os arquivos necessários para iniciar o desenvolvimento estão inclusos na pasta `src`.
